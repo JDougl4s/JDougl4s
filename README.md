@@ -5,7 +5,7 @@
 
 
 ## Ferramentas e tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) (https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,sql&theme=light)](https://skillicons.dev) 
 
 
 Aprendendo hoje para desenvolver soluções melhores amanhã.
